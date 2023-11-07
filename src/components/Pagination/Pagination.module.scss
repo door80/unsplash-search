@@ -1,0 +1,15 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 4rem auto;
+  font-family: var(--font-mono);
+  font-size: 1.6rem;
+}
+
+.pager {
+  background: none;
+  border: 0;
+  padding: 1rem 1.5rem;
+}

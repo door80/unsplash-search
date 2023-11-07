@@ -1,0 +1,16 @@
+.headline {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 4rem;
+
+  h1 {
+    margin: 0;
+  }
+}
+
+.intro {
+  max-width: 60rem;
+  padding: 4rem 0;
+}
